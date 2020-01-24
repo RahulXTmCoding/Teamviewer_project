@@ -1,0 +1,1 @@
+java -Djava.net.preferIPv4Stack=true -classpath c:\teamviewer\hr\client\classes;. Main
